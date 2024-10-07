@@ -60,3 +60,19 @@ Contributions to this project are welcome! If you have any suggestions or find a
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [MongoDB Documentation](https://docs.mongodb.com/)
+
+
+## Sample screenshots
+ ![registration page](https://github.com/user-attachments/assets/53f5bde9-8a81-4e16-a235-1482f9e1315b)
+ ![login](https://github.com/user-attachments/assets/ebcadb32-b958-4890-ab76-8b0fcec8dfc4)
+ ![home](https://github.com/user-attachments/assets/ebd0945a-db19-4482-aa2f-c7dd78544ca5)
+ ![other pages](https://github.com/user-attachments/assets/77fe5a1f-4bd7-4054-af4b-f1a7b1b5d490)
+ ![next pages](https://github.com/user-attachments/assets/af9633d8-b0b4-4d06-9393-d8f4f305c4ca)
+![cart](https://github.com/user-attachments/assets/f5439601-d178-4953-8dd4-efe6f30d4d4d)
+![faqs](https://github.com/user-attachments/assets/9cc21ec6-8404-41b3-b866-d871c0f33875)
+
+
+
+
+
+
